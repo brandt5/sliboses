@@ -1,0 +1,23 @@
+.header > {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  height: 100vh;
+}
+.logo {
+  display: block;
+  margin: auto;
+  border: none;
+  outline: none;
+}
+.body {
+  width: 67%;
+  margin: 0 auto;
+  background-color: darkgoldenrod;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.login-contaner {
+  text-align: center;
+}
